@@ -51,7 +51,7 @@ I build **AI-powered applications, backend systems, and developer tools** — wi
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/areen-agrawal/">
+  <a href="https://www.linkedin.com/in/areen-agrawal-523307250/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:agrawalareen09@gmail.com">
